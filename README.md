@@ -13,5 +13,3 @@
 ## 致谢
 
 Rabel 论坛系统受到[Project Babel 2](https://github.com/livid/v2ex)启发，特此感谢。
-
-## Forked from daqing/rabel
