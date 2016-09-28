@@ -17,7 +17,7 @@ default: &default
   encoding: unicode
   pool: 5
   username: postgres
-  password:
+  password: postgres 
   host: localhost
   port: 5432
 
